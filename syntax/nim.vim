@@ -53,7 +53,7 @@ syn keyword nimKeyword       try tuple type
 syn keyword nimKeyword       var vtref vtptr
 syn keyword nimKeyword       when while with without
 syn keyword nimKeyword       xor
-syn keyword nimKeyword       yield
+syn keyword nimKeyword       yield in
 
 syn match   nimFunction      "[a-zA-Z_][a-zA-Z0-9_]*" contained
 syn match   nimClass         "[a-zA-Z_][a-zA-Z0-9_]*" contained
